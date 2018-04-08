@@ -9,6 +9,6 @@ class WeatherController extends Controller
 {
     public function weather()
     {
-        return "To jest aktualna pogoda";
+        return view('weather');
     }
 }
