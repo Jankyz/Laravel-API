@@ -15,7 +15,7 @@
 
         <style>
             html, body {
-                background-color: #fff;
+                background-color: wheat;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -27,7 +27,7 @@
 
     <body>
         <div class="container">
-            <div class="content">
+            <div class="content text-center">
     
                 @yield ('content')
 
