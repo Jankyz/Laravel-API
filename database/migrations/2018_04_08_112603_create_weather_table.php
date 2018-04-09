@@ -20,6 +20,7 @@ class CreateWeatherTable extends Migration
             $table->text('wind_dir');
             $table->text('humidity');
             $table->text('pressure');
+            $table->text('icon');
             $table->timestamps();
         });
     }
