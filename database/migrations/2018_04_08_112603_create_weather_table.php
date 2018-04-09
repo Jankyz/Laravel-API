@@ -17,6 +17,7 @@ class CreateWeatherTable extends Migration
             $table->increments('id');
             $table->text('temperature');
             $table->text('wind');
+            $table->text('wind_dir');
             $table->text('humidity');
             $table->text('pressure');
             $table->timestamps();
