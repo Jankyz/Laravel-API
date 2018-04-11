@@ -21,4 +21,4 @@
 $ composer create-project laravel/laravel YOURNAME
 ```
 
-## Copy or Clone Laravel-API and Replace files in Your Laravel Empty Project
+## Copy or Clone Laravel-Weather and Replace files in Your Laravel Empty Project
